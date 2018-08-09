@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     margin: 0px;
-    font-family: Georgia, Times New Roman, Times, serif;
+    font-family: Georgia,"Times New Roman", Times, serif;
     font-size: 18px;
     line-height: 150%;
     color: #333;
@@ -44,6 +44,8 @@ float: left;
   
   #bio-image {
     float: left;
+    border-style: block;
+    border-width: 15px;
   }
   
   #main-bio {
